@@ -1,4 +1,4 @@
-Introdução: O Docker To Do List é um projeto introdutório ao docker, com comandos para criar, executar, startar, excluir, etc.
+Introdução: O Docker To Do List é um projeto  do curso de Desenvolvedor Web Full Stack da Trybe, introdutório ao docker, com comandos para criar, executar, startar, excluir, etc.
 
 Desafios: Esse projeto apesar de não ter desafios foi muito importante para inserir na rotina o uso do docker nos projetos.
 
